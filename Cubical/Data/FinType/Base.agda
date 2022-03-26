@@ -4,8 +4,8 @@ Finite Types
 
 This file formalize the notion of Rijke finite type,
 which is a direct generalization of Bishop finite set.
-Basically, a type is (Rijke) n-finite if its i-th order
-homotopy groups πᵢ are Bishop finite for i ≤ n.
+Basically, a type is (Rijke) n-finite
+if its i-th order homotopy groups πᵢ are Bishop finite for i ≤ n.
 
 Referrences:
   https://github.com/EgbertRijke/OEIS-A000001

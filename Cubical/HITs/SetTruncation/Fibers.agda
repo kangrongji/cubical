@@ -23,7 +23,7 @@ open import Cubical.Data.Sigma
 
 open import Cubical.HITs.PropositionalTruncation as Prop
 open import Cubical.HITs.SetTruncation as Set
-open import Cubical.HITs.SetQuotients as SetQuot
+open import Cubical.HITs.SetQuotients  as SetQuot
 
 open import Cubical.Relation.Binary
 
